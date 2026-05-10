@@ -9,8 +9,8 @@ Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 # Setup
 
 ## If you have python installed:
-```
-cd Birthday
+```happy birthday adhya
+
 ```
 
 && 
